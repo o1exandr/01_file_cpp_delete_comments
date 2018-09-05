@@ -10,7 +10,7 @@
 using namespace std;
 
   // printFile
-void printFile(const string & fname)
+void printFile(const string & fname) //comment after code
 {
 
 	string str;

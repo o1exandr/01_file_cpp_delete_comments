@@ -1,6 +1,7 @@
 
 
 
+
 #include "stdafx.h"
 #include <iostream> 
 #include <string>
@@ -8,7 +9,8 @@
 
 using namespace std;
 
-void printFile(const string & fname)
+  
+void printFile(const string & fname) 
 {
 
 	string str;
@@ -30,6 +32,7 @@ void printFile(const string & fname)
 	
 }
 
+ 
 void createFile(const string & fname)
 {
 		ofstream inF;
